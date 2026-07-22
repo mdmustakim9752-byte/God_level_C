@@ -13,6 +13,7 @@
 	}else{
 		printf("Abhi tum chote ho! Vote nahi de sakte. \n");
 	}
-	
+
+		
 	return 0;
 }
