@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main() {
         int marks;
 
@@ -17,5 +18,8 @@ int main() {
         }
         else {
                 printf("Result: Failed (Needs Improvement)\n");
+                
         }
+        
         return 0;
+}
