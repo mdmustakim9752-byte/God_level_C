@@ -1,5 +1,6 @@
 include <stdio.h>
 
+
 int main() {
         char operator;
         double a, b;
@@ -28,8 +29,10 @@ int main() {
         break;
         default:
                 printf("Invalid Operator!\n");
+                
 }
 
 return 0;
 
+        
 }
