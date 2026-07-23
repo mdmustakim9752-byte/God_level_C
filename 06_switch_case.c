@@ -15,10 +15,10 @@ int main() {
                 printf("Result: %.2lf\n", a+b);
                 break;
         case'-':
-                printf("Result: %2lf\n", a-b);
+                printf("Result: %.2lf\n", a-b);
                 break;
         case '*':
-                printf("Reslut: %2lf\n", a-b);
+                printf("Reslut: %.2lf\n", a*b);
                 break;
         case '/':
                 if (b != 0)
